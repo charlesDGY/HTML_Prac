@@ -2,4 +2,4 @@
 
 This is a repository to record my html learning process.
 
-![Coding Katt](https://tenor.com/view/cat-computer-typing-fast-gif-5368357)
+![Coding Katt](https://media1.tenor.com/m/y2JXkY1pXkwAAAAC/cat-computer.gif)
